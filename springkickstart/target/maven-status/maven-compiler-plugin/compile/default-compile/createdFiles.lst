@@ -1,0 +1,3 @@
+com\easynsimple\spring\general\Application.class
+com\easynsimple\spring\general\WebSecurityConfig.class
+com\easynsimple\spring\general\MvcConfig.class
